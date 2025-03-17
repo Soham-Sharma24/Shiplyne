@@ -10,4 +10,13 @@ Shiplyne is an intelligent logistics platform that helps **factories rent trucks
 -  **AI-Powered Dynamic Pricing** – Ensures cost efficiency & fair pricing  
 -  **Route Optimization** – AI-driven paths minimize fuel costs & delays  
 -  **Fraud Prevention** – Detects fake bids & ensures transparency  
--  **Secure Data Storage** – PostgreSQL database for structured information management  
+-  **Secure Data Storage** – PostgreSQL database for structured information management
+
+ 
+## Tech Stack
+- **Frontend**: React.js / Vue.js
+- **Backend**: Django REST Framework / Flask / FastAPI
+- **Database**: PostgreSQL
+- **Machine Learning**: TensorFlow, Scikit-learn, XGBoost
+- **Cloud Services**: AWS / Google Cloud for hosting
+- **Authentication**: JWT / OAuth
